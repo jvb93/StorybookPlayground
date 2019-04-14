@@ -1,4 +1,4 @@
-# taskbox
+# Storybook Playground
 
 ## Project setup
 ```
@@ -15,20 +15,12 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
 ### Lints and fixes files
 ```
 npm run lint
 ```
 
-### Run your unit tests
+### Launch Storybook
 ```
-npm run test:unit
+npm run storybook
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
